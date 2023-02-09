@@ -9,7 +9,7 @@ env:
 jobs:
   test:
     env:
-      MONGODB_CLUSTER_ADDRESS: @cluster0.vkwrv.mongodb.net
+      MONGODB_CLUSTER_ADDRESS: cluster0.vkwrv.mongodb.net
       MONGODB_USERNAME: meysam1
       MONGODB_PASSWORD: 9CqHevsgO2CO9IBc
       PORT: 8080
